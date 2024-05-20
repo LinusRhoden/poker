@@ -1,0 +1,15 @@
+.datetime{
+    color: black;
+}
+
+#navbar-main {
+    background-color: black;
+  }
+
+.node_meta{
+    color: black !important;
+}
+
+.node__meta{
+    color: black !important;
+}
